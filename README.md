@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # grunt-iehint
 
 > Test common mistakes that break in IE.
@@ -91,4 +90,3 @@ _(Nothing yet)_
 =======
 grunt-iehint
 ============
->>>>>>> 164c535f6d82dd1324d41df89ca0341abe8808f7
