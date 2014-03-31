@@ -1,0 +1,42 @@
+{
+  "name": "grunt-iehint",
+  "description": "Test common mistakes that break in IE.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/pjeweb/grunt-iehint",
+  "author": {
+    "name": "Paul Golmann",
+    "email": "p.golmann@neonaut.de",
+    "url": "http://neonaut.de"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pjeweb/grunt-iehint.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pjeweb/grunt-iehint/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/pjeweb/grunt-iehint/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.9.2",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt": "~0.4.4"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.4"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}
