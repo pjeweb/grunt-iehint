@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # grunt-iehint
 
 > Test common mistakes that break in IE.
@@ -87,3 +88,7 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## Release History
 _(Nothing yet)_
+=======
+grunt-iehint
+============
+>>>>>>> 164c535f6d82dd1324d41df89ca0341abe8808f7
